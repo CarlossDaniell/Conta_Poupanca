@@ -1,0 +1,14 @@
+C:\Users\Diego Barros\source\repos\Poupanca\Poupanca\bin\Debug\Poupanca.exe.config
+C:\Users\Diego Barros\source\repos\Poupanca\Poupanca\bin\Debug\Poupanca.exe
+C:\Users\Diego Barros\source\repos\Poupanca\Poupanca\bin\Debug\Poupanca.pdb
+C:\Users\Diego Barros\source\repos\Poupanca\Poupanca\obj\Debug\Poupanca.csprojAssemblyReference.cache
+C:\Users\Diego Barros\source\repos\Poupanca\Poupanca\obj\Debug\Poupanca.csproj.CoreCompileInputs.cache
+C:\Users\Diego Barros\source\repos\Poupanca\Poupanca\obj\Debug\Poupanca.exe
+C:\Users\Diego Barros\source\repos\Poupanca\Poupanca\obj\Debug\Poupanca.pdb
+C:\Users\Bruno-DG\Documents\Visual Studio 2017\exercicio-poupanca-csharp-master\Poupanca\bin\Debug\Poupanca.exe.config
+C:\Users\Bruno-DG\Documents\Visual Studio 2017\exercicio-poupanca-csharp-master\Poupanca\bin\Debug\Poupanca.exe
+C:\Users\Bruno-DG\Documents\Visual Studio 2017\exercicio-poupanca-csharp-master\Poupanca\bin\Debug\Poupanca.pdb
+C:\Users\Bruno-DG\Documents\Visual Studio 2017\exercicio-poupanca-csharp-master\Poupanca\obj\Debug\Poupanca.csprojAssemblyReference.cache
+C:\Users\Bruno-DG\Documents\Visual Studio 2017\exercicio-poupanca-csharp-master\Poupanca\obj\Debug\Poupanca.csproj.CoreCompileInputs.cache
+C:\Users\Bruno-DG\Documents\Visual Studio 2017\exercicio-poupanca-csharp-master\Poupanca\obj\Debug\Poupanca.exe
+C:\Users\Bruno-DG\Documents\Visual Studio 2017\exercicio-poupanca-csharp-master\Poupanca\obj\Debug\Poupanca.pdb
